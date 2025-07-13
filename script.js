@@ -1,4 +1,4 @@
-const API_KEY = "YOUR_API_KEY_HERE"; // Dán API key của chồng vào đây
+const API_KEY = "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; // Dán API key của chồng vào đây
 const API_URL = "https://openrouter.ai/api/v1/chat/completions";
 
 const chatBox = document.getElementById("chat");
